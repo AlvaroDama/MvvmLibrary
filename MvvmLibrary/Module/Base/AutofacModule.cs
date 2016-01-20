@@ -2,7 +2,7 @@
 using MvvmLibrary.Factorias;
 using Xamarin.Forms;
 
-namespace MvvmLibrary.Module
+namespace MvvmLibrary.Module.Base
 {
     public class AutofacModule : Autofac.Module
     {

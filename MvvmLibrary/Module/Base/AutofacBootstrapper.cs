@@ -1,7 +1,7 @@
 ﻿using Autofac;
 using MvvmLibrary.Factorias;
 
-namespace MvvmLibrary.Module
+namespace MvvmLibrary.Module.Base
 {
     public abstract class AutofacBootstrapper
     {

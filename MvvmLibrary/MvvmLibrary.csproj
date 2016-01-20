@@ -42,8 +42,8 @@
     <Compile Include="Factorias\Navigator.cs" />
     <Compile Include="Factorias\PageProxy.cs" />
     <Compile Include="Factorias\ViewFactory.cs" />
-    <Compile Include="Module\AutofacBootstrapper.cs" />
-    <Compile Include="Module\AutofacModule.cs" />
+    <Compile Include="Module\Base\AutofacBootstrapper.cs" />
+    <Compile Include="Module\Base\AutofacModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModel\Base\IViewModel.cs" />
     <Compile Include="ViewModel\Base\ViewModelBase.cs" />
